@@ -54,8 +54,8 @@ HMS is developed to help:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/hospital-management-system.git
-   cd hospital-management-system
+   git clone https://github.com/dibyendupaul-09/Hospital-Management-.git
+   cd Hospital-Management
 2. **Create Virtual Environment**
    python -m venv venv
    source venv/bin/activate  # On Windows use venv\Scripts\activate
