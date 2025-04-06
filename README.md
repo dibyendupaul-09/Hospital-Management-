@@ -1,7 +1,7 @@
 # 🏥 Hospital Management System (HMS)
 
 <div align="center">
-  <img src="https://github.com/dibyendupaul-09/Projects/blob/7f9881ca8d8617f269d8960442e45a89f2d25ae8/Screenshot%202025-03-21%20162048.png" alt="!Project Preview" width="80%">
+  <img src="Picture1.jpg" alt="!Project Preview" width="80%">
   <br>
   <em>!Project Preview</em>
 </div>
